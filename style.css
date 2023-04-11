@@ -1,0 +1,53 @@
+h1 {
+    color: red
+}
+
+h2 {
+    color: red;
+    font-style: italic;
+}
+
+ol {
+    color: maroon;
+    line-height: 50px;
+}
+
+/* .css{
+    line-height: 50px;
+} */
+.line-through {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.bgcolor {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.italic {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.box2 {
+    color: maroon;
+    letter-spacing: 5px;
+}
+
+.letter {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+p {
+    color: rgb(157, 86, 4);
+}
+
+a {
+    background-color: yellow;
+    color: red;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 18px;
+}
